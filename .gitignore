@@ -1,0 +1,11 @@
+# release building
+.tarballs
+*.phar
+*.tgz
+
+##### Composer
+composer.phar
+composer.lock
+/vendor/
+vendor
+
